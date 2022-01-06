@@ -1,2 +1,2 @@
-# data-anhalytics-using-python
+# data-analytics-using-python
 data ananlytics workshop
